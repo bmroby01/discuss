@@ -10,6 +10,5 @@ defmodule DiscussWeb.TopicController do
   end
 
   def create(conn, %{"topic" => topic}) do
-    
   end
 end
