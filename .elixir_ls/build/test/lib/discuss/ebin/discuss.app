@@ -12,7 +12,6 @@
                         'Elixir.DiscussWeb.ErrorView',
                         'Elixir.DiscussWeb.Gettext',
                         'Elixir.DiscussWeb.LayoutView',
-                        'Elixir.DiscussWeb.PageController',
                         'Elixir.DiscussWeb.PageView',
                         'Elixir.DiscussWeb.Router',
                         'Elixir.DiscussWeb.Router.Helpers',
