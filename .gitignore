@@ -37,3 +37,6 @@ npm-debug.log
 
 .lock
 assets/package-lock.json 
+
+# Hide config file 
+config.exs
