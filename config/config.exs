@@ -34,6 +34,6 @@ config :ueberauth, Ueberauth,
     github: {Ueberauth.Strategy.Github, []}
   ]
 
-config :ueberauth, Ueberauth.Strategy.Github.Oauth,
+config :ueberauth, Ueberauth.Strategy.Github.OAuth,
   client_id: "de3b0ef771317ffa65e2",
   client_secret: "3b215041ae7a5c346c3da96e142da11eed3d972e"
