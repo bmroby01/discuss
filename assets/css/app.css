@@ -1,3 +1,13 @@
 /* This file is for your main application css. */
 
 @import "./phoenix.css";
+
+.help-block {
+  color:red;
+  padding-top: 2px;
+  text-transform: capitalize;
+}
+
+.delete-btn {
+    padding-left: 1em;
+}
