@@ -9,6 +9,7 @@
                         'Elixir.DiscussWeb',
                         'Elixir.DiscussWeb.AuthController',
                         'Elixir.DiscussWeb.ChannelCase',
+                        'Elixir.DiscussWeb.Comment',
                         'Elixir.DiscussWeb.ConnCase',
                         'Elixir.DiscussWeb.Endpoint',
                         'Elixir.DiscussWeb.ErrorHelpers',
