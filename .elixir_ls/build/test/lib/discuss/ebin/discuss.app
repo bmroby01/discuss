@@ -10,6 +10,7 @@
                         'Elixir.DiscussWeb.AuthController',
                         'Elixir.DiscussWeb.ChannelCase',
                         'Elixir.DiscussWeb.Comment',
+                        'Elixir.DiscussWeb.CommentsChannel',
                         'Elixir.DiscussWeb.ConnCase',
                         'Elixir.DiscussWeb.Endpoint',
                         'Elixir.DiscussWeb.ErrorHelpers',
@@ -25,7 +26,8 @@
                         'Elixir.DiscussWeb.TopicController',
                         'Elixir.DiscussWeb.TopicView',
                         'Elixir.DiscussWeb.User',
-                        'Elixir.DiscussWeb.UserSocket']},
+                        'Elixir.DiscussWeb.UserSocket',
+                        'Elixir.Jason.Encoder.DiscussWeb.Comment']},
               {registered,[]},
               {vsn,"0.1.0"},
               {mod,{'Elixir.Discuss.Application',[]}}]}.
