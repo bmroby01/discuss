@@ -27,7 +27,8 @@
                         'Elixir.DiscussWeb.TopicView',
                         'Elixir.DiscussWeb.User',
                         'Elixir.DiscussWeb.UserSocket',
-                        'Elixir.Jason.Encoder.DiscussWeb.Comment']},
+                        'Elixir.Jason.Encoder.DiscussWeb.Comment',
+                        'Elixir.Jason.Encoder.DiscussWeb.User']},
               {registered,[]},
               {vsn,"0.1.0"},
               {mod,{'Elixir.Discuss.Application',[]}}]}.
